@@ -1,0 +1,3 @@
+markdown
+requests
+beautifulsoup.4
